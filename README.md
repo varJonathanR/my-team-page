@@ -11,4 +11,4 @@ HTML & CSS (SCSS)
 
 ## How did I do it?
 
-I used Grid to make the columns responsive and added several slats for the top move in the middle column (desktop and tablet layout) and the second column (mobile layout)
+I used Grid to make the columns responsive and added several slats for the top move in the middle column (desktop and tablet layout) and the second column (mobile layout), then I followed the Figma design
