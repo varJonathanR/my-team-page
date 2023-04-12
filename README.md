@@ -6,8 +6,9 @@ This is my solution for 'My Team Page' project on [devChallenges.io](https://dev
 
 ### Tools
 
--HTML
--CSS (SCSS)
+- HTML
+- CSS (SCSS)
+- Grid
 
 ### Prevew_Img
 
