@@ -1,5 +1,5 @@
 # my-team-page
-2nd devChallenge project
+2nd devChallenge project (Responsive Web Developer)
 
 ## What is it about?
 
