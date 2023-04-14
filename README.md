@@ -1,8 +1,8 @@
 # my-team-page
 
-### Overvew
+### Overview
 
-This is my solution for 'My Team Page' project on [devChallenges.io](https://devchallenges.io/)
+This is my solution for 'My Team Page' project on [devChallenges.io](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U)
 
 ### Tools
 
@@ -10,6 +10,6 @@ This is my solution for 'My Team Page' project on [devChallenges.io](https://dev
 - CSS (SCSS)
 - Grid
 
-### Prevew_Img
+### Preview
 
 ![my-team-page_prevew](https://github.com/varJonathanR/my-team-page/blob/main/assets/my-team-page_prevew.png)
